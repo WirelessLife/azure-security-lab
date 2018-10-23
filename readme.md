@@ -1,11 +1,5 @@
 # Securing Azure Infrastructure - Hands on Lab Guide
 
-**Authors:**
-
-Adam Raffe - Microsoft
-
-Tom Wilde - Microsoft 
-
 # Contents
 
 **[Prerequisites](#prereqs)**
